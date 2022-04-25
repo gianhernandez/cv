@@ -1,0 +1,116 @@
+
+
+p {
+    font-family: 'Kalam', cursive;
+    font-size: 1.5rem;
+}
+
+
+.avatar {
+    text-align: center;
+
+}
+
+.avatar h1 {
+    line-height: 3;
+}
+
+.avatar-img {
+    display: block;
+    width: 15%;
+    margin: 0 auto 5% auto;
+}
+
+.skill {
+    line-height: 4;
+}
+
+.title {
+    font-family: 'Ms Madi', cursive;
+    font-size: 5rem;
+}
+
+.subtitle {
+    font-family: 'Kalam', cursive;
+}
+
+
+#about {
+    background-color: #4673b7;
+    text-align: center;
+    color: white;
+    border-radius: 0 0 0 50%;
+    padding: 7%;
+    line-height: 3;
+
+}
+
+
+
+#skills {
+    text-align: center;
+    margin: 3% auto 0 auto;
+    font-size: 1.5rem;
+
+}
+
+
+#footer {
+    background-color: #4673b7;
+    border-radius: 0 50% 0 0;
+    color: white;
+    text-align: center;
+    padding: 4%;
+
+}
+
+#portfolio {
+    text-align: center;
+}
+
+.copyright {
+    padding-top: 3%;
+}
+
+.navbar {
+    background-color: #4673b7;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar a:hover {
+    color: black;
+}
+
+
+.container-fluid  h1{
+    padding: 3% 3%;
+
+}
+
+.icons {
+    font-size: 2.5rem;
+    padding: 25px;
+    color: white;
+}
+
+.icons:hover {
+    color: grey;
+}
+
+
+.logo {
+    width: 25%;
+}
+
+.pc-art {
+    width: 60%;
+    transition: transform 1s;
+
+}
+
+.pc-art:hover {
+    transform: scale(1.3);
+}
